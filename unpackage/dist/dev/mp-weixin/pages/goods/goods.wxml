@@ -1,0 +1,1 @@
+<view class="goods-list-page"><goods-list vue-id="576f0adc-1" goods="{{goodsListArr}}" data-event-opts="{{[['^goGoodsDetail',[['goGoodsDetail']]]]}}" bind:goGoodsDetail="__e" bind:__l="__l"></goods-list><block wx:if="{{visible}}"><view class="load-all _div">----我是有底线的----</view></block></view>
